@@ -1,0 +1,3 @@
+employ name = rahul
+age = 26
+salary = 5lpa
